@@ -1,5 +1,5 @@
-## Kitaplik
-# Masaüstü Kişisel Kitaplik Uygulaması-JAVA
+# Kitaplik
+## Masaüstü Kişisel Kitaplik Uygulaması-JAVA
 Kitaplarınızı adı, yazarı ve okunma tarihi ile ekleyebilir, silebilir ve güncelleyebilirsiniz. <br>
 Kitaplarınızda beğendiğiniz yerleri kitabın "Alıntılar" kısmına ekleyip istediğinizde görüntüleyebilirsiniz. <br>
 Kitaplığınız sizin adınızla veri tabanına eklenir ve giriş yaptığınızda kendi kitaplığınıza ulaşırsınız. <br>
